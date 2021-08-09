@@ -16,7 +16,7 @@ skill 2
 ```
 
 ## if the script doesn't work
-* the script checks between ` - ` and `[...]`for the song name, and any text inside the last set of brackets will be deemed as the mapper
+* the script checks between ` - ` and `[...]` for the song name, and any text inside the last set of brackets will be deemed as the mapper
 * anything inside the square brackets will be deemed as the diff name
 
 ## final notes
