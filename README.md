@@ -2,7 +2,8 @@
 
 ## getting started
 * make sure you have python 3
-* copy the mappool message into a text file (defaulted to message.txt)
+* copy the mappool message into a text file
+* enter the name of the text file (defaulted to message.txt)
 * press enter and watch it work
 * make sure the message is in the format of
 ```
